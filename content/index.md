@@ -81,7 +81,7 @@ Blackbrook Hall offers one-of-a-kind workspaces in Lichfield.
 Contact us today about this fantastic suite.
 
 <span>
-📨 Email: <a href="mailto:joreyner@gmail.com">JoReyner@gmail.com </a>
+📨 Email: <a href="mailto:admin@lichfieldOfficeRental.co.uk">admin@lichfieldOfficeRental.co.uk</a>
 </span>
 <span>
 ☎️ Phone: <a href="tel:07890780057">07890 780057</a>

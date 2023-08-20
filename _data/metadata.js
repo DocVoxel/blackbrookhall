@@ -7,6 +7,6 @@ module.exports = {
 	"address": "Blackbrook Hall London Rd, Lichfield WS14 0PS",
 	"whatsapp": "07890780057",
 	"phone": "07890780057",
-	"email": "joreyner@gmail.com",
+	"email": "admin@lichfieldOfficeRental.co.uk",
 	"cover": "/img/eleventy.png"
 }
