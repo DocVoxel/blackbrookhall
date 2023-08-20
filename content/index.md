@@ -68,7 +68,7 @@ The shared lounge and kitchen enable collaboration and connection between occupa
 Blackbrook Hall is close to Lichfield and Sutton Coldfield city centres with easy access to the A38, M6, and across Staffordshire, Warwickshire, and the West Midlands.
 
 <div class = "center-content">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d73116.54774171108!2d-1.8872687712976552!3d52.64627168870801!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870a61deeb7b6a5%3A0x14814d1658c8fe6c!2sLondon%20Rd%2C%20Lichfield%20WS14%200PS%2C%20UK!5e0!3m2!1sen!2sus!4v1692544497987!5m2!1sen!2sus" width="600" height="600" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe title="google maps to office at blackbrook hall" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d73116.54774171108!2d-1.8872687712976552!3d52.64627168870801!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870a61deeb7b6a5%3A0x14814d1658c8fe6c!2sLondon%20Rd%2C%20Lichfield%20WS14%200PS%2C%20UK!5e0!3m2!1sen!2sus!4v1692544497987!5m2!1sen!2sus" width="600" height="600" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div id="contact-us-now">
