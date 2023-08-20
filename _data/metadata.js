@@ -1,17 +1,12 @@
 module.exports = {
-	"title": "OPTIMASI WEBSITE",
+	"title": "Luxury Office Suite to Rent, Lichfield, Staffordshire",
 	"url": "https://optimasiwebsite.axcora.com",
-	"language": "id",
-	"description": "PERCEPAT ANALISA DAN INJECT AUTO SEO WEBSITE MU",
-	"company": "Axcora Technology",
-	"address": "Ruko Pasar Wisata Juanda Q.07 - Sidoarjo - East Java - Indonesia",
-	"whatsapp": "62895339403223",
-	"phone": "62895339403223",
-	"email": "axcora@gmail.com",
-	"cover": "/img/eleventy.png",
-	"author": {
-		"name": "creativitas",
-		"email": "creativebydre@gmail.com",
-		"url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
-	}
+	"language": "en",
+	"description": "Luxury Office Suite is now available to Rent, Lichfield, Staffordshire. 236 sq. ft.High-speed WiFi, Electronic access control, Access to a shared lounge and kitchen, On-site showers are also available",
+	"company": "Blackbrook hall",
+	"address": "Blackbrook Hall London Rd, Lichfield WS14 0PS",
+	"whatsapp": "07890780057",
+	"phone": "07890780057",
+	"email": "joreyner@gmail.com",
+	"cover": "/img/eleventy.png"
 }

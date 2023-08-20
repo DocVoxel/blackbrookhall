@@ -1,67 +1,44 @@
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Mulish';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aqvG4w-.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Mulish';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aOvG4w-.woff2) format('woff2');
-  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Mulish';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aivG4w-.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Mulish';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8amvG4w-.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Mulish';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aevGw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
+
 
   html,body {font-family: 'Mulish', sans-serif;}
   
+  html {
+    font-size: 18px; /* Adjust this value as needed */
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #444;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    font-family: 'Mulish', sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
   a {text-decoration: none;}
-.start{background-image: url('/img/optimtimasiwebsiteseo.webp');
+
+.shadowBox {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent white background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);   /* Drop shadow */
+  border-radius: 10px;                         /* Optional: Rounded corners */
+  padding: 20px;                              /* Padding for the content inside the box */
+}
+.optimasi{background-image: url('/img/blackbrook hall side view.jpg');
 background-repeat: no-repeat;
-background-position: center; 
+background-position: top right;
 background-size: cover;
 color: white;
 }
-.optimasi{background-image: url('/img/layananoptimtimasiwebsiteseo.webp');
+.konsep{background-image: url('/img/inside windows.jpg');
 background-repeat: no-repeat;
-background-position: center; 
-background-size: cover;
-color: white;
-}
-.konsep{background-image: url('/img/optimtimasiwebsite.webp');
-background-repeat: no-repeat;
-background-position: center; 
+background-position: left; 
 background-size: cover;
 color: white;
 }
@@ -87,4 +64,93 @@ background-repeat: no-repeat;
 background-position: center; 
 background-size: cover;
 color: white;
+}
+.image-fullwidth {
+  /* Set a specific height and width or make it responsive */
+  width: 100%; 
+  height: 600px; 
+  overflow: hidden; /* Hide any overflowing parts of the image */
+  position: relative; /* Needed for absolute positioning of the image */
+}
+
+.image-fullwidth img {
+  /* Make the image cover the container */
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image-autoheight {
+  /* Set a specific height and width or make it responsive */
+  width: 100%; 
+  height: 600px; 
+  overflow: hidden; /* Hide any overflowing parts of the image */
+  position: relative; /* Needed for absolute positioning of the image */
+}
+
+.image-autoheight img {
+  /* Make the image cover the container */
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+}
+
+body {
+  background-color: rgb(239, 239, 240);
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 20px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 0.7px 1.4px, rgba(0, 0, 0, 0.05) 0px 1.9px 4px, rgba(0, 0, 0, 0.05) 0px 4.5px 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.image-container {
+  border: 1px solid #333;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0.7px 1.4px, rgba(0, 0, 0, 0.5) 0px 1.9px 4px, rgba(0, 0, 0, 0.5) 0px 4.5px 10px;
+}
+
+.center-content {
+  text-align: center;
+}
+
+#contact-us-now {
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 0.7px 1.4px, rgba(0, 0, 0, 0.05) 0px 1.9px 4px, rgba(0, 0, 0, 0.05) 0px 4.5px 10px;
+  background-color: #eee;
+  color: #000;
+  margin: 10px;
+  padding: 10px;
+}
+
+.main-header, .footer {
+  background-color: #333;
+  color: #eee;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);   /* Drop shadow */
+}
+
+.main-header h1 {
+  margin: 0;
+  padding: 20px;
+}
+
+#main-title {
+  padding-top: 30px;
+}
+
+.main-header a, .footer a {
+  color: #ddd;
 }
