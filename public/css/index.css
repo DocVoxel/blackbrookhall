@@ -125,6 +125,7 @@ body {
 
 .center-content {
   text-align: center;
+  overflow: hidden;
 }
 
 #contact-us-now {
