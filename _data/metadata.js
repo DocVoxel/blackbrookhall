@@ -1,6 +1,6 @@
 module.exports = {
 	"title": "Luxury Office Suite to Rent, Lichfield, Staffordshire",
-	"url": "https://optimasiwebsite.axcora.com",
+	"url": "https://lichfieldofficerental.co.uk/",
 	"language": "en",
 	"description": "Luxury Office Suite is now available to Rent, Lichfield, Staffordshire. 236 sq. ft.High-speed WiFi, Electronic access control, Access to a shared lounge and kitchen, On-site showers are also available",
 	"company": "Blackbrook hall",
