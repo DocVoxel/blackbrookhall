@@ -10,7 +10,7 @@ layout: layouts/home.njk
 
 ## Luxury Office Suite at Blackbrook Hall, Lichfield, Staffordshire 
 
-Blackbrook Hall is a beautiful historic building in Lichfield that has undergone contemporary renovations to create luxury office suites. These unique suites blend modern amenities with the building's traditional architecture.
+Blackbrook Hall is a beautiful historic building in Lichfield that has undergone contemporary renovations to create luxury office suites. This unique office space blends modern amenities with the building's traditional architecture.
 
 {% image "../public/img/PXL_20230510_165822917.TS_exported_600_1685131002748.jpg", "Blackbrook hall office suite", "50vw", "image-fullwidth" %}
 
@@ -46,13 +46,13 @@ Blackbrook Hall is a beautiful historic building in Lichfield that has undergone
 * Access to a shared lounge and kitchen
 * On-site showers are also available
 
-{% image "../public/img/Communal-Area.jpg", "office suite Communal-Area", "50vw", "image-autoheight" %}
+{% image "../public/img/Communal-Area.jpg", "Communal-Area workspace", "50vw", "image-autoheight" %}
 <br>
 
-{% image "../public/img/138+16240_web.jpg", "office suite shared lounge and kitchen", "50vw", "image-autoheight" %}
+{% image "../public/img/138+16240_web.jpg", "Shared lounge and kitchen", "50vw", "image-autoheight" %}
 <br>
 
-{% image "../public/img/138+16237_web.jpg", "office suite shower facilities", "50vw", "image-autoheight" %}
+{% image "../public/img/138+16237_web.jpg", "Shower facilities", "50vw", "image-autoheight" %}
 <br>
 
 ## Convenient Parking
@@ -97,13 +97,13 @@ Contact us today about this fantastic suite.
 ## What are the benefits of renting an office space?
 
 - **Professional Environment:** A rented office provides a dedicated space for meetings, collaborations, and daily operations.
-  - **Blackbrook Hall's Advantage:** Blackbrook Hall offers luxury office suites in a historic building, blending contemporary renovations with traditional architecture. This creates a unique and professional environment ideal for meetings and daily operations.
+  - **Blackbrook Hall's Advantage:** Blackbrook Hall offers commercial office spaces in a historic building, blending contemporary renovations with traditional architecture. This creates a unique and professional environment ideal for meetings and daily operations.
 
 - **Flexibility:** Renting allows businesses to adapt to their needs, whether they're expanding or downsizing.
   - **Blackbrook Hall's Advantage:** With various suites available, businesses can choose the space that best fits their needs, ensuring flexibility as they grow or change.
 
 - **Cost-Effective:** Avoid the upfront costs of purchasing property and benefit from amenities that many office buildings offer.
-  - **Blackbrook Hall's Advantage:** Blackbrook Hall offers suites with modern amenities included in the rent, such as high-speed WiFi, electronic access control, and shared lounge areas, providing cost-effective solutions for businesses.
+  - **Blackbrook Hall's Advantage:** Blackbrook Hall offers workspaces with modern amenities included in the rent, such as high-speed WiFi, electronic access control, and shared lounge areas, providing cost-effective solutions for businesses.
 
 ## How do I choose the right office location?
 
